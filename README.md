@@ -1,6 +1,6 @@
 # Hello-SaifBhatkar
 Hello World First Git hub project
-<!DOCTYPE html>
+
 <html>
 <body>
 
